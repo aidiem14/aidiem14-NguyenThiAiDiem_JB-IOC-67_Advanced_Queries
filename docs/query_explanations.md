@@ -1,0 +1,5 @@
+- ALIAS giúp tăng tính đọc hiểu kết quả.
+- GROUP BY + HAVING dùng để lọc theo nhóm.
+- Subquery xử lý các bài toán so sánh tổng hợp.
+- LEFT JOIN đảm bảo không mất dữ liệu.
+- UNION/INTERSECT xử lý tập hợp kết quả.
